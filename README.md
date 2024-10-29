@@ -1,12 +1,11 @@
-MediaSphere is a full-stack streaming platform you developed using the MERN
+MediaSphere is a full-stack streaming platform developed using the MERN
 
 Technical Stack:
 
 Frontend (React + Redux Toolkit):
-React: Handles the user interface, making the application dynamic and responsive. React is a popular choice for single-page applications (SPAs) due to its component-based architecture and fast rendering with a virtual DOM.
+React: Handles the user interface, making the application dynamic and responsive.
 
-Redux Toolkit: Manages application state effectively, especially user data like login status, movie preferences, and streaming history. The Toolkit simplifies state management, making it easier to update and sync data across components.
-
+Redux Toolkit: Manages application state effectively, especially user data like login status, movie preferences, and streaming history. The Toolkit simplifies state management.
 Backend (Node.js + Express):
 
 Node.js: Provides a non-blocking, event-driven architecture that supports high concurrency, ideal for real-time applications like streaming services.
